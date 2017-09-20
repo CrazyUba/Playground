@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_A", "ComBetweenConsoleApps\App_A.csproj", "{E38D10DA-9884-4DCE-8AB8-C7C0E02E5751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_B", "ComBetweenConsoleApps_B\App_B.csproj", "{B010F9BF-16FB-48E2-BDD1-B4B3AF57CFD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "..\Shared\Utility\Utility\Utility.csproj", "{BA7EF03B-B740-4B7E-BAD3-0E06821D9FE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommunicationBetweenTwoConsoleAppsViaProcessAndConsoleOutput", "CommunicationBetweenTwoConsoleAppsViaProcessAndConsoleOutput", "{F2EE6D38-F21A-498B-9F16-336E0E1319CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommunicationBetweenTwoAppsViaWebAPI", "CommunicationBetweenTwoAppsViaWebAPI", "{52A12C69-2A27-44F5-ADEE-478E1B067EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_C", "App_C\App_C.csproj", "{B4DE6404-A5C7-4C5D-B96C-A1B6E67D426D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_D", "App_D\App_D.csproj", "{401E55B8-8A6D-471F-B30E-6531D916D03C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_D_WebAPI", "App_D_WebAPI\App_D_WebAPI.csproj", "{A1F08D2E-5FBA-42F1-A16E-E52E19E8DA47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E38D10DA-9884-4DCE-8AB8-C7C0E02E5751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38D10DA-9884-4DCE-8AB8-C7C0E02E5751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38D10DA-9884-4DCE-8AB8-C7C0E02E5751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38D10DA-9884-4DCE-8AB8-C7C0E02E5751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B010F9BF-16FB-48E2-BDD1-B4B3AF57CFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B010F9BF-16FB-48E2-BDD1-B4B3AF57CFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B010F9BF-16FB-48E2-BDD1-B4B3AF57CFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B010F9BF-16FB-48E2-BDD1-B4B3AF57CFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7EF03B-B740-4B7E-BAD3-0E06821D9FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7EF03B-B740-4B7E-BAD3-0E06821D9FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7EF03B-B740-4B7E-BAD3-0E06821D9FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7EF03B-B740-4B7E-BAD3-0E06821D9FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DE6404-A5C7-4C5D-B96C-A1B6E67D426D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DE6404-A5C7-4C5D-B96C-A1B6E67D426D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DE6404-A5C7-4C5D-B96C-A1B6E67D426D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DE6404-A5C7-4C5D-B96C-A1B6E67D426D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{401E55B8-8A6D-471F-B30E-6531D916D03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401E55B8-8A6D-471F-B30E-6531D916D03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401E55B8-8A6D-471F-B30E-6531D916D03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401E55B8-8A6D-471F-B30E-6531D916D03C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F08D2E-5FBA-42F1-A16E-E52E19E8DA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F08D2E-5FBA-42F1-A16E-E52E19E8DA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F08D2E-5FBA-42F1-A16E-E52E19E8DA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F08D2E-5FBA-42F1-A16E-E52E19E8DA47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E38D10DA-9884-4DCE-8AB8-C7C0E02E5751} = {F2EE6D38-F21A-498B-9F16-336E0E1319CB}
+		{B010F9BF-16FB-48E2-BDD1-B4B3AF57CFD3} = {F2EE6D38-F21A-498B-9F16-336E0E1319CB}
+		{B4DE6404-A5C7-4C5D-B96C-A1B6E67D426D} = {52A12C69-2A27-44F5-ADEE-478E1B067EA6}
+		{401E55B8-8A6D-471F-B30E-6531D916D03C} = {52A12C69-2A27-44F5-ADEE-478E1B067EA6}
+		{A1F08D2E-5FBA-42F1-A16E-E52E19E8DA47} = {52A12C69-2A27-44F5-ADEE-478E1B067EA6}
+	EndGlobalSection
+EndGlobal

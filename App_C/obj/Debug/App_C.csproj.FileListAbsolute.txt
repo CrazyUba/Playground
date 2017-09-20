@@ -1,0 +1,14 @@
+C:\Devel\VisalStudio\Projects\Playground\App_C\bin\Debug\App_C.exe.config
+C:\Devel\VisalStudio\Projects\Playground\App_C\bin\Debug\App_C.exe
+C:\Devel\VisalStudio\Projects\Playground\App_C\bin\Debug\App_C.pdb
+C:\Devel\VisalStudio\Projects\Playground\App_C\bin\Debug\App_D.dll
+C:\Devel\VisalStudio\Projects\Playground\App_C\bin\Debug\Newtonsoft.Json.dll
+C:\Devel\VisalStudio\Projects\Playground\App_C\bin\Debug\App_D.pdb
+C:\Devel\VisalStudio\Projects\Playground\App_C\bin\Debug\Newtonsoft.Json.xml
+C:\Devel\VisalStudio\Projects\Playground\App_C\obj\Debug\App_C.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\Playground\App_C\obj\Debug\App_C.exe
+C:\Devel\VisalStudio\Projects\Playground\App_C\obj\Debug\App_C.pdb
+C:\Devel\VisalStudio\Projects\Playground\App_C\bin\Debug\App_C.exe.manifest
+C:\Devel\VisalStudio\Projects\Playground\App_C\bin\Debug\App_C.application
+C:\Devel\VisalStudio\Projects\Playground\App_C\obj\Debug\App_C.exe.manifest
+C:\Devel\VisalStudio\Projects\Playground\App_C\obj\Debug\App_C.application

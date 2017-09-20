@@ -1,0 +1,5 @@
+C:\Devel\VisalStudio\Projects\Playground\App_D\bin\Debug\App_D.dll
+C:\Devel\VisalStudio\Projects\Playground\App_D\bin\Debug\App_D.pdb
+C:\Devel\VisalStudio\Projects\Playground\App_D\obj\Debug\App_D.dll
+C:\Devel\VisalStudio\Projects\Playground\App_D\obj\Debug\App_D.pdb
+C:\Devel\VisalStudio\Projects\Playground\App_D\obj\Debug\App_D.csprojResolveAssemblyReference.cache

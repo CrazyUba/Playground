@@ -1,0 +1,6 @@
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps_B\obj\Debug\App_B.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps_B\bin\Debug\App_B.exe.config
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps_B\bin\Debug\App_B.exe
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps_B\bin\Debug\App_B.pdb
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps_B\obj\Debug\App_B.exe
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps_B\obj\Debug\App_B.pdb

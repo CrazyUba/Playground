@@ -1,0 +1,12 @@
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps\bin\Debug\App_A.exe.config
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps\bin\Debug\App_A.exe
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps\bin\Debug\App_A.pdb
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps\bin\Debug\Utility.dll
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps\bin\Debug\log4net.dll
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps\bin\Debug\Utility.pdb
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps\bin\Debug\log4net.xml
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps\obj\Debug\App_A.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps\obj\Debug\App_A.exe
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps\obj\Debug\App_A.pdb
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps\bin\Debug\App_B.exe
+C:\Devel\VisalStudio\Projects\Playground\ComBetweenConsoleApps\bin\Debug\App_B.pdb
