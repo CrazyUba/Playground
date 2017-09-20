@@ -8,7 +8,7 @@ namespace App_D_WebAPI.Controllers
         // GET api/dog
         public Dog Get()
         {
-            Dog d = new Dog { Size = 45, Age = 7 };
+            Dog d = new Dog { Size = 45, Age = 8 };
             return d;
         }
     }

@@ -88,3 +88,5 @@ C:\Devel\VisalStudio\Projects\Playground\App_D_WebAPI\bin\System.Web.Http.Owin.x
 C:\Devel\VisalStudio\Projects\Playground\App_D_WebAPI\obj\Debug\App_D_WebAPI.csprojResolveAssemblyReference.cache
 C:\Devel\VisalStudio\Projects\Playground\App_D_WebAPI\obj\Debug\App_D_WebAPI.dll
 C:\Devel\VisalStudio\Projects\Playground\App_D_WebAPI\obj\Debug\App_D_WebAPI.pdb
+C:\Devel\VisalStudio\Projects\Playground\App_D_WebAPI\bin\App_D.dll
+C:\Devel\VisalStudio\Projects\Playground\App_D_WebAPI\bin\App_D.pdb

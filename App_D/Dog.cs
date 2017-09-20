@@ -7,7 +7,7 @@
 
         public override string ToString()
         {
-            return $"App_D - Hund: {Size}, {Age} Jahre alt (Test)";
+            return $"App_D - Hund: {Size}, {Age} Jahre alt ()";
         }
 
     }

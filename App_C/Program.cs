@@ -17,6 +17,7 @@ namespace App_C
             Console.WriteLine(p);
             Console.WriteLine();
             Console.WriteLine(d);
+            Console.WriteLine();
             Console.ReadLine();
 
         }
